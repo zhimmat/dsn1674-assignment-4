@@ -31,6 +31,7 @@ ul {
   figcaption{
     font-style: italic;
     color: white;
+  text-align:center;
   }
 }
 ol {
@@ -86,8 +87,6 @@ dd{
 font-size: 1.2rem;
 }
 
-
-
 .quote {
   font-size: 1.5rem;
   font-family:arial; serif;
@@ -136,4 +135,9 @@ figure{
   background-color: black;
 padding:0em 1em;
 margin:0em;
+}
+
+footer{
+background-color: black;
+text-align: left;
 }

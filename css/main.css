@@ -1,0 +1,114 @@
+html  {
+  background-color: #3c9ac6;
+}
+h1 {
+  background-color: darkorange;
+  padding: 0.5em 2em 0.5em 3em;
+  margin:0;
+  text-align: none;
+  font-weight: normal; /* normal, bold */
+  font-size: 3.5rem; /* 16 is normal font */
+  font-style: none; /* normal, italic */
+  text-decoration: none; /* underline, line-through */
+  font-family: "Bevan", cursive;
+  line-height: 0.5;
+  color: white;
+}
+
+h2{
+  font-family:"Bevan", cursive;
+  color:darkorange;
+}
+
+li {
+  font-weight:normal;
+
+  ul {
+    list-style-type: lower-roman;
+  }
+  figcaption{
+    font-style: italic;
+    color: white;
+  }
+  padding: 0;
+}
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cele {
+  color: darkorange;
+}
+
+.rounded{
+  color: darkorange;
+}
+
+a{
+  color: white;
+}
+
+a:hover {
+  color: orange;
+}
+
+p{
+  font-family: arial; san serif;
+  font-size: .7rem;
+  color:white;
+}
+
+blockquote{
+  font-style: italic;
+  line-height: .9;
+}
+
+footer {
+  text-align: right;
+  font-size: .8rem;
+  color: black;
+}
+
+dt {
+  font-weight:bold;
+  font-family: Arial;
+}
+
+.quote {
+  font-size: 1.5rem;
+  font-family:arial; serif;
+  text-align: right;
+}
+
+nav{
+  background-color: darkorange;
+  text-align: center;
+}
+
+nav li{
+  display: inline-block;
+  padding: 0.5em;
+}
+
+nav a{
+  display: inline-block;
+  padding:1em 1em;
+  background-color: black;
+  color: white;
+  margin: 0em;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+nav ol{
+  list-style-type: none;
+  margin: 0;
+ padding: 0;
+}
+
+img{
+  width: 100%
+
+}
